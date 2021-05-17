@@ -1,3 +1,6 @@
+@import "bootstrap/scss/bootstrap.scss";
+
+
 .bg_primary-color {
     background-color: #FFFFFF;
   }
